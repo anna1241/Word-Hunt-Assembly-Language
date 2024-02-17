@@ -1,1 +1,2 @@
 # Word-Hunt-Assembly-Language
+Dive into the world of low-level programming with the Word Hunt Assembly project. This repository contains an implementation of the classic word hunt game in assembly language. Explore the intricacies of assembly code while challenging yourself with the hunt for words. Join us in this journey to uncover the beauty of assembly language programming and enjoy the timeless fun of Word Hunt.
